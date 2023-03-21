@@ -18,8 +18,16 @@ section{
 
 }
 
-select#lista{
-    width: 150px;
+input#num{
+    padding: 8px;
+}
+
+input#btn{
+    padding: 8px;
+}
+
+input#fim{
+    padding: 8px;
 }
 
 footer{
